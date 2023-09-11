@@ -16,6 +16,7 @@ class otel{
     int musteriTC;
     int rezervasyonluTC;
     int guncellenmisUcret;
+    //burasi degismis gibi
 
 
 public:
