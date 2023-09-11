@@ -1,0 +1,2 @@
+# otelOtomasyonu
+otelOtomasyonu
